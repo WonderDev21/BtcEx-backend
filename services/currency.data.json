@@ -1,0 +1,312 @@
+{
+	"AUD": {
+		"symbol": "AU$",
+		"name": "Australian Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "AUD",
+		"name_plural": "Australian dollars",
+		"factor": 1
+	},
+	"BGN": {
+		"symbol": "лв",
+		"name": "Bulgarian Lev",
+		"symbol_native": "лв",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "BGN",
+		"name_plural": "Bulgarian Levs",
+		"factor": 1
+	},
+	"BRL": {
+		"symbol": "R$",
+		"name": "Brazilian Real",
+		"symbol_native": "R$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "BRL",
+		"name_plural": "Brazilian Reals",
+		"factor": 1
+	},
+	"CAD": {
+		"symbol": "CA$",
+		"name": "Canadian Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "CAD",
+		"name_plural": "Canadian dollars",
+		"factor": 1
+	},
+	"CHF": {
+		"symbol": "CHF",
+		"name": "Swiss Franc",
+		"symbol_native": "CHF",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "CHF",
+		"name_plural": "Swiss Francs",
+		"factor": 1
+	},
+	"CNY": {
+		"symbol": "¥",
+		"name": "Chinese Yuan",
+		"symbol_native": "¥",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "CNY",
+		"name_plural": "Chinese Yuan",
+		"factor": 1
+	},
+	"CZK": {
+		"symbol": "Kč",
+		"name": "Czech Republic Koruna",
+		"symbol_native": "Kč",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "CZK",
+		"name_plural": "Czech Republic korunas",
+		"factor": 1
+	},
+	"DKK": {
+		"symbol": "Dkr",
+		"name": "Danish Krone",
+		"symbol_native": "kr",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "DKK",
+		"name_plural": "Danish kroner",
+		"factor": 1
+	},
+	"EUR": {
+		"symbol": "€",
+		"name": "Euro",
+		"symbol_native": "€",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "EUR",
+		"name_plural": "euros",
+		"factor": 1
+	},
+	"GBP": {
+		"symbol": "£",
+		"name": "British Pound Sterling",
+		"symbol_native": "£",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "GBP",
+		"name_plural": "British pounds sterling",
+		"factor": 1
+	},
+	"HKD": {
+		"symbol": "HK$",
+		"name": "Hong Kong Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "HKD",
+		"name_plural": "Hong Kong dollars",
+		"factor": 1
+	},
+	"HRK": {
+		"symbol": "kn",
+		"name": "Croatian Kuna",
+		"symbol_native": "kn",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "HRK",
+		"name_plural": "Croatian kunas",
+		"factor": 1
+	},
+	"HUF": {
+		"symbol": "Ft",
+		"name": "Hungarian Forint",
+		"symbol_native": "Ft",
+		"decimal_digits": 0,
+		"rounding": 0,
+		"code": "HUF",
+		"name_plural": "Hungarian forints",
+		"factor": 1
+	},
+	"IDR": {
+		"symbol": "Rp",
+		"name": "Indonesian Rupiah",
+		"symbol_native": "Rp",
+		"decimal_digits": 0,
+		"rounding": 0,
+		"code": "IDR",
+		"name_plural": "Indonesian rupiahs",
+		"factor": 1
+	},
+	"ILS": {
+		"symbol": "₪",
+		"name": "Israeli New Sheqel",
+		"symbol_native": "₪",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "ILS",
+		"name_plural": "Israeli new sheqels",
+		"factor": 1
+	},
+	"INR": {
+		"symbol": "₹",
+		"name": "Indian Rupee",
+		"symbol_native": "₹",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "INR",
+		"name_plural": "Indian rupees",
+		"factor": 1
+	},
+	"JPY": {
+		"symbol": "¥",
+		"name": "Japanese Yen",
+		"symbol_native": "¥",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "JPY",
+		"name_plural": "Japanese Yens",
+		"factor": 1
+	},
+	"KRW": {
+		"symbol": "₩",
+		"name": "South Korean Won",
+		"symbol_native": "₩",
+		"decimal_digits": 0,
+		"rounding": 0,
+		"code": "KRW",
+		"name_plural": "South Korean won",
+		"factor": 1
+	},
+	"MXN": {
+		"symbol": "MX$",
+		"name": "Mexican Peso",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "MXN",
+		"name_plural": "Mexican pesos",
+		"factor": 1
+	},
+	"NOK": {
+		"symbol": "Nkr",
+		"name": "Norwegian Krone",
+		"symbol_native": "kr",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "NOK",
+		"name_plural": "Norwegian kroner",
+		"factor": 1
+	},
+	"NZD": {
+		"symbol": "NZ$",
+		"name": "New Zealand Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "NZD",
+		"name_plural": "New Zealand dollars",
+		"factor": 1
+	},
+	"PHP": {
+		"symbol": "₱",
+		"name": "Philippine Peso",
+		"symbol_native": "₱",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "PHP",
+		"name_plural": "Philippine pesos",
+		"factor": 1
+	},
+	"PLN": {
+		"symbol": "zł",
+		"name": "Polish Zloty",
+		"symbol_native": "zł",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "PLN",
+		"name_plural": "Polish zlotys",
+		"factor": 1
+	},
+	"RON": {
+		"symbol": "lei",
+		"name": "Romanian Leu",
+		"symbol_native": "lei",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "RON",
+		"name_plural": "Romanian Leu",
+		"factor": 1
+	},
+	"RUB": {
+		"symbol": "₽",
+		"name": "Russian Ruble",
+		"symbol_native": "₽",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "RUB",
+		"name_plural": "Russian Rubles",
+		"factor": 1
+	},
+	"SEK": {
+		"symbol": "Skr",
+		"name": "Swedish Krona",
+		"symbol_native": "kr",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "SEK",
+		"name_plural": "Swedish kronor",
+		"factor": 1
+	},
+	"SGD": {
+		"symbol": "S$",
+		"name": "Singapore Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "SGD",
+		"name_plural": "Singapore dollars",
+		"factor": 1
+	},
+	"THB": {
+		"symbol": "฿",
+		"name": "Thai Baht",
+		"symbol_native": "฿",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "THB",
+		"name_plural": "Thai baht",
+		"factor": 1
+	},
+	"TRY": {
+		"symbol": "TL",
+		"name": "Turkish Lira",
+		"symbol_native": "TL",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "TRY",
+		"name_plural": "Turkish Lira",
+		"factor": 1
+	},
+	"USD": {
+		"symbol": "$",
+		"name": "US Dollar",
+		"symbol_native": "$",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "USD",
+		"name_plural": "US dollars",
+		"factor": 1
+	},
+	"ZAR": {
+		"symbol": "R",
+		"name": "South African Rand",
+		"symbol_native": "R",
+		"decimal_digits": 2,
+		"rounding": 0,
+		"code": "ZAR",
+		"name_plural": "South African rand",
+		"factor": 1
+	}
+}

@@ -1,0 +1,5 @@
+exports.kycIdType = {
+  PASSPORT: 'PASSPORT',
+  ID_CARD: 'ID_CARD',
+  DRIVING_LICENSE: 'DRIVING_LICENSE'
+};

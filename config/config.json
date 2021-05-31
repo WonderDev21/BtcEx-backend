@@ -1,0 +1,15 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "2311",
+    "database": "trade-backend",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "staging": {
+    "use_env_variable": "DATABASE_URL"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}

@@ -1,0 +1,6 @@
+exports.verificationStatus = {
+  UNVERIFIED: 'UNVERIFIED',
+  REJECTED: 'REJECTED',
+  PENDING: 'PENDING',
+  APPROVED: 'APPROVED',
+};

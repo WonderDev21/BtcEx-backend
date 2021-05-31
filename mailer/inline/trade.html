@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="../css/foundation-emails.css" inline>
+  <style type="text/css">
+    .main-container{
+      width:100%;
+      padding: 40px;
+      background:#efefef;
+    }
+    .header-container{
+      padding: 20px;
+    }
+    .data-container{
+      padding: 20px;
+    }
+    .footer-container{
+      padding: 20px;
+    }
+    .bakchground{
+      background:#efefef;
+    }
+    .bgwhite{
+      background: #fff;
+    }
+    small{
+      font-family: sans-serif;
+      color: #888888;
+    }
+  </style>
+</head>
+<body>
+  <container class="main-container" >
+    <row class="bakchground">
+     <columns small="1" large="1"></columns>
+     <columns small="12" large="10">
+          <row>
+            <columns></columns>
+            <columns class="header-container"><h2><center>Trade</center></h2></columns>
+            <columns></columns>
+          </row>
+          <row class="bgwhite">
+            <columns>
+              <div class="data-container">
+                Dear Member,
+                <br><br>
+                Congratulation, Your order on Trade has been Matched.<br>
+                You ${orderSide} ${tradeQty} ${currency} for INR ${tradePrice} per ${currency} at ${tradeTime}.<br><br>
+                
+                ${orderSide} === 'SELL' ?
+                Trade Amount : INR ${tradePrice}<br>
+                Trade Qty : ${tradeQty}<br>
+                Trade Fee (Incl all taxes)* : INR ${orderCostApplied}<br>
+                Total Amount : INR ${totalTradePrice}<br>
+                :
+                Trade Amount : INR ${tradePrice}<br>
+                Trade Qty : INR ${tradeQty}<br>
+                Total : ${currency} ${tradeQty}<br><br>
+
+                we will creadited ${orderSide} === 'SELL' ? INR ${totalTradePrice}
+                :
+                ${currency} ${tradeQty} to your account.<br><br><br>
+
+                Best Regards<br>
+                The Coinmint Team.<br>
+              </div>
+            </columns>
+          </row>
+          <row>
+            <columns class="footer-container"><center><small>Copyrights©2017 QuickSilver Technologies Pvt.Ltd</small></center></columns>
+          </row>
+     </columns>
+     <columns small="1" large="1"></columns>
+    </row>
+  </container>
+</body>
+</html>

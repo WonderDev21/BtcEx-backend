@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="../css/foundation-emails.css" inline>
+  <link rel="stylesheet" href="../css/foundation.min.css" inline>
+  <style type="text/css">
+    .container-padding {
+      padding: 20px 35px 10px 35px;
+    }
+
+    hr {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container-padding">
+    <container>
+      <row>
+        <columns>
+          <h6>Hi <b>${fullName}</b>,</h6>
+          <br>
+          <br>
+        </columns>
+      </row>
+      <row>
+        <columns>
+          <p>We have received your KYC documents. We will verify and inform you within 2 days.</p>
+        </columns>
+      </row>
+      <row>
+        <columns>
+          <p>Sincerely,
+            <br><b>The ${APP_NAME} Team</b>
+          </p>
+          <hr>
+        </columns>
+      </row>
+      <row>
+        <columns>
+          <p><b>Need Support</b>
+            <br>
+            <small>Feel free to email us at <a href="mailto:${SUPPORT_EMAIL}">${SUPPORT_EMAIL}</a> if you have any
+              query, question or suggestions. We will be happy to resolve all your issues.</small>
+          </p>
+        </columns>
+      </row>
+      <row>
+        <columns>
+          <center><small>Copyright © ${APP_NAME}</small></center>
+        </columns>
+      </row>
+    </container>
+  </div>
+</body>
+
+</html>

@@ -1,0 +1,10 @@
+node_modules/
+logs/
+temp/
+invoices/
+local_scripts/
+.env.production
+yarn-error.log
+.DS_Store
+*.csv
+test.sql

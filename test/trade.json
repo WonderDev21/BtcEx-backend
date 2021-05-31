@@ -1,0 +1,73 @@
+[
+  {
+    "orders": [
+      {
+        "orderId": "20b363e9-06d6-4ea6-9568-ce52e30fbf84",
+        "price": 100,
+        "currentSize": 2,
+        "filledSize": 0,
+        "userId": "f889036d-ef19-4457-aa62-7a7f4144cdbd",
+        "side": "SELLER",
+        "name": "James",
+        "status": "PENDING",
+        "currency": "ETH",
+        "account": [
+          { "currency": "INR", "value": 40},
+          { "currency": "ETH", "value": 6}
+        ]
+      },
+      {
+        "orderId": "20b363e9-06d6-4ea6-9568-ce52e30fbf84",
+        "price": 100,
+        "currentSize": 2,
+        "filledSize": 0,
+        "userId": "f889036d-ef19-4457-aa62-7a7f4144cdbd",
+        "side": "BUYER",
+        "name": "Robert",
+        "status": "PENDING",
+        "currency": "ETH",
+        "account": [
+          { "currency": "INR", "value": 500},
+          { "currency": "ETH", "value": 0}
+        ]
+      }
+    ],
+    "output": {
+      "orders": [{
+          "orderId": "20b363e9-06d6-4ea6-9568-ce52e30fbf84",
+          "price": 100,
+          "currentSize": 0,
+          "filledSize": 2,
+          "size": 2,
+          "costApplied": 1,
+          "userId": "f889036d-ef19-4457-aa62-7a7f4144cdbd",
+          "side": "SELLER",
+          "name": "James",
+          "status": "TRADED",
+          "currency": "ETH",
+          "account": [
+            { "currency": "INR", "value": 239},
+            { "currency": "ETH", "value": 4}
+          ]
+      },
+      {
+        "orderId": "20b363e9-06d6-4ea6-9568-ce52e30fbf84",
+        "price": 100,
+        "currentSize": 2,
+        "filledSize": 0,
+        "userId": "f889036d-ef19-4457-aa62-7a7f4144cdbd",
+        "side": "BUYER",
+        "name": "Robert",
+        "status": "TRADED",
+        "currency": "ETH",
+        "account": [
+          { "currency": "INR", "value": 299},
+          { "currency": "ETH", "value": 2}
+        ]
+      }],
+      "bank": {
+        "balance": 2
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+{
+  "BXC": {
+    "type": "TOKEN",
+    "withdrawal_fees": 1,
+    "minimum_withdrawal": 10,
+    "minimum_deposit": 10,
+    "deposit_fees": 0
+  },
+  "BTC": {
+    "type": "TOKEN",
+    "withdrawal_fees": 0.0005,
+    "minimum_withdrawal": 0.001,
+    "minimum_deposit": 0.001,
+    "deposit_fees": 0
+  },
+  "ETH": {
+    "type": "TOKEN",
+    "withdrawal_fees": 0.01,
+    "minimum_withdrawal": 0.02,
+    "minimum_deposit": 0.01,
+    "deposit_fees": 0
+  },
+  "LTC": {
+    "type": "TOKEN",
+    "withdrawal_fees": 0.01,
+    "minimum_withdrawal": 0.02,
+    "minimum_deposit": 0.01,
+    "deposit_fees": 0
+  },
+  "XRP": {
+    "type": "TOKEN",
+    "withdrawal_fees": 0.3,
+    "minimum_withdrawal": 5,
+    "minimum_deposit": 5,
+    "deposit_fees": 0
+  },
+  "USDT": {
+    "type": "TOKEN",
+    "withdrawal_fees": 5,
+    "minimum_withdrawal": 10,
+    "minimum_deposit": 5,
+    "deposit_fees": 0
+  },
+  "HKD": {
+    "type": "FIAT",
+    "withdrawal_fees": 100,
+    "minimum_withdrawal": 200,
+    "minimum_deposit": 200,
+    "deposit_fees": 0
+  },
+  "INR": {
+    "type": "FIAT",
+    "withdrawal_fees": 20,
+    "minimum_withdrawal": 100,
+    "minimum_deposit": 100,
+    "deposit_fees": 0
+  }
+}

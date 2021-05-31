@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chiprally-175605",
+  "private_key_id": "b1ebedc3d9ad80fb34082585d0be8ee82e783496",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCagp1GB2g2INRU\nUaYOCe7yMRXLXZdG5mHRXdiqQXECtnih46OCk7Lw9NVwNu9b1UKTZr0xvtylhFxt\nMfrhkKS98zK0Endf+dhcdMmjuK8jpwukdYwy8xRnaafm9IxFjf3rjTazBzjTBzHC\nl7yZfNgQTZ+5qSooIyqpkj1vHQEHwZDEtQj5U1mNxwpo9mkOzvOeuOvaHCCQpYU+\nMzolAsM598quWA9C/TX0xenExSvIWn2+uPyyTyaNehOGGtT8NmI2JBimsoVqGzDr\nrabFXwpI4E/GtQPSqeRjofRwfNYbF284ZHE1Q8NRDisIBVRMb1TpQPJfP9/naUqQ\nfTPcouRxAgMBAAECggEAHJNIc/Gdv9j9e+Sn0dPbebZDQhu6hRXJhHeXQRGeTXKi\nx8n6bQVU5ERbjwfR58l+qRUoq2ERnJjooRdLv1jJZwnp2CzMIBdsgNjmi911oqHb\nwNwuhCO5o9CCCXAz2w9CJUS2F5Ef3MNpXARFEJvqt8UrY6JaFhc+5iKSMxEJpj3I\nBaeKz1NAYPQ/5j+21jckGX9sbwbc1Q2GvAHiJdCl9xr4VreEuyoU5pVRhfLuzCW0\n1aH08r3FHPtEpyyrE92EA5BzWFvUOK8ZhJyyZAITtiwwcuR8NCjqmXmz2pCDCEqx\nDU1lzV1mPgAll2hYK9bkrVthTUnmorf5JwdvDk3pGwKBgQDUuwUoOtLFbUlmu0gs\nOeXbbKB09EGmZ1weH4IvWugm0w0AbA1s0ZysHs5d+799sOWNVdzvspd7uyzSGhUc\n9DO/JzMYJSrOfopCiIOT4feDKQbG3bro+RJbmQVzMWvXlrykh7560ebpPP9qhdVN\ngzsMtbbtw2XDBvCGFNkiQsOk6wKBgQC58Aiu06+BdkLs5+NrShINcSnA7cnrzk9a\nWfSNjABR0//JKB1iJV2fUAhVzeQ9ay5qaMeNCBvI93z8mYAJhuI1NIGcR3bTj3Bm\ndQdEE0l1BKs2nrdRRr50j0EYgtN/ZykN9hiTHN3GDroTMnIaRufq94WcYemDBEJn\ndwjeOqs1EwKBgGMkMfgYyggGsdG18KHj7dMAYht/hmUWAKFtT8/gDxeg/os20F7p\npZm11bmJTSo32hOvc4MmeWDJz86vJy3SRZeNnktfbv7DjI4Lbz7pbd/rq+PcjHJt\nOfgEbbzMyJS2BH6tYMF+t531tpeffdRdF5UJzxIqIW/t+QSUDMnh0ao3AoGBAIio\nyzjzjQLyEK5eoN+ySSJoEfAi1U3jDJ+zjfKa+4Eo9865FR+VpwH4qKen9CDQLgU3\njbMySnmirNJbX6eg45GHTdu3CrbjrhEf4n8+Tbcb/1rdvI6YGFNDFu0U+q2g/KOu\nRNGbXcS7/jct1H9LrhkcY69Up3QMJWI2MuZi6ILRAoGBAL39H/XrEdJDEZwE73jM\nNBpEeoUVTY7qb8jPR5N9E5nMWiDaxY4uIy5CamrfFNU1tWKyhdwtvZ3CYbjkod2i\n17IaLwuGTauLtwjshO9Sf/yElMH3dBOYv8oQ2n+HHZ9qRmrecdMVuKhGtg12TwNP\nEpt1l4WNsmj1QUzO0Bhyzfzs\n-----END PRIVATE KEY-----\n",
+  "client_email": "file-store@chiprally-175605.iam.gserviceaccount.com",
+  "client_id": "115129207319885412583",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/file-store%40chiprally-175605.iam.gserviceaccount.com"
+}

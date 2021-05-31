@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "node-style-guide"
+    ],
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaVersion": 8,
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    },
+    "rules": {
+        "space-after-keywords": 0,
+        "max-len": 0,
+        "camelcase": 0
+    }
+}
